@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdaEnginar
 - 👀 I’m interested in climate, dancing, yoga and friends
 - 🌱 I’m currently learning SQL and Phyton
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on code learning experience
 - 📫 How to reach me [linkedin/eedaenginar](https://www.linkedin.com/in/edaenginar/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I used to be a silkwarm shepherd when I was little.
